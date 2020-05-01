@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F628A -DL -O11111114 -fo4 -N"C:\Users\EMRE\Desktop\karaþimþek\mikroC kod\Karaþimþek.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\EMRE\Desktop\karaþimþek\mikroC kod\" -SP"C:\Users\EMRE\Desktop\ELEKTRONÝKK\mikroC\karaþimþek\" "Karaþimþek.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\EMRE\Desktop\ELEKTRONÝKK\mikroC\karaþimþek'	 
+hint: 0	1139	Available RAM: 208 [bytes], Available ROM: 2048 [bytes]	 
+diagnostics: 0	122	Compilation Started	Karaþimþek.c
+diagnostics: 29	123	Compiled Successfully	Karaþimþek.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+hint: 0	1144	Used RAM (bytes): 4 (2%)  Free RAM (bytes): 204 (98%)	Used RAM (bytes): 4 (2%)  Free RAM (bytes): 204 (98%)
+hint: 0	1144	Used ROM (program words): 53 (3%)  Free ROM (program words): 1995 (97%)	Used ROM (program words): 53 (3%)  Free ROM (program words): 1995 (97%)
+diagnostics: 0	125	Project Linked Successfully	Karaþimþek.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'Karaþimþek.mcppi' completed: 156 ms	 
+diagnostics: 0	103	Finished successfully: 22 Oca 2016, 18:38:25	Karaþimþek.mcppi
